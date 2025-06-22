@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JMDngXAAwNqC36nCZEdNB3GoxzyW3uaB3Bh7MMwoZ10=",
+  "Source": "webapi_carros",
+  "BasePath": "_content/webapi_carros",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
